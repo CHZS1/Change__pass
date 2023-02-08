@@ -1,0 +1,38 @@
+@media (max-width: 420px) {
+    .form__title {
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .form__input {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .form__info {
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .btn {
+        padding: 18px 74px 18px 30px;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    .btn-light {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 21px;
+    }
+
+    .wrong {
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 18px;
+    }
+}
