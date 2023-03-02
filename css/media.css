@@ -1,4 +1,7 @@
 @media (max-width: 420px) {
+    .main {
+        padding: 40px 30px;
+    }
     .form__title {
         font-weight: 600;
         font-size: 20px;
